@@ -1,4 +1,1 @@
-This is FileB
-let make change 
-lets make another change
-this is for squesh merge
+this is fileB
